@@ -27,7 +27,7 @@ https://github.com/himanshus-codes/Express-Client-Server-Demo
 ---
 
 ## 🧠 What I'm Learning
-- MERN stack
+- Web Development - MERN stack
 - Node.js
 - Express Servers
 - React
