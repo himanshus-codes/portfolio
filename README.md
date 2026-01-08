@@ -20,16 +20,17 @@ A simple demo showing how GET and POST requests work with forms.
 https://github.com/himanshus-codes/Express-Client-Server-Demo
 
 
-### 2️⃣ (Upcoming) Todo App
+### 2️⃣ (Upcoming) 
 🔗 Coming soon
 
 
 
 ## 🧠 What I'm Learning
-- Backend development
-- REST APIs
-- Git & GitHub
 - MERN stack
+- Node.js
+- Express Servers
+- React
+- MySQL & MongoDB
 
 
 📫 **GitHub:** https://github.com/himanshus-codes
